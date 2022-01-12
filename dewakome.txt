@@ -1,3 +1,4 @@
 DEWA KOMEN
+- Belajar membuat website dari nol dengan php dangan kodingan original php, sehingga mudah dipahami buat saya pemula
 - Membuat website dari nol sampai online
 - Membuat website bisnis jual beli komentar youtube, instagram, tiktok, dan sosial media lainnya, dan jual beli like facebook, instagram, instagram follower..
